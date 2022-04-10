@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1635356592 source:c:\users\luiss\desktop\algoritmo de ordenação\algoritmos.c
+	"algoritmos.h"
+	<stdlib.h>
+	<stdio.h>
+
+1635356601 c:\users\luiss\desktop\algoritmo de ordenação\algoritmos.h
+
+1635355064 source:c:\users\luiss\desktop\algoritmo de ordenação\main.c
+	<stdio.h>
+	<stdlib.h>
+	"algoritmos.h"
+	<locale.h>
+
+1635363035 source:c:\users\kaique nakao\desktop\algoritmo de ordenação\algoritmos.c
+	"algoritmos.h"
+	<stdlib.h>
+	<stdio.h>
+
+1635362141 c:\users\kaique nakao\desktop\algoritmo de ordenação\algoritmos.h
+
+1635362830 source:c:\users\kaique nakao\desktop\algoritmo de ordenação\main.c
+	<stdio.h>
+	<stdlib.h>
+	"algoritmos.h"
+	<locale.h>
+	<time.h>
+
