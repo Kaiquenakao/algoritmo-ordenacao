@@ -12,6 +12,7 @@ int main(){
     int cont, contagem;
     time_t antes, depois;
 
+    // menu
     while(opcao >= 0 && opcao <= 7){
         opcao = menuPrincipal();
         limpaTela();
@@ -208,7 +209,7 @@ int main(){
         break;
 
         default:
-            printf("Erro opção invalida"); // Caso o usuário digita uma opção invalida ocorre esse erro
+            printf("Erro opï¿½ï¿½o invalida"); // Caso o usuï¿½rio digita uma opï¿½ï¿½o invalida ocorre esse erro
             exit(1);
         break;
         }
